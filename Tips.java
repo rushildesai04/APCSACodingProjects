@@ -45,7 +45,6 @@ public class Tips {
     System.out.println("Tip Amount = $" + tip);
     System.out.println("Total Amount = $" + totalAmount);
 
-
     //Tests when Writing the Code
     //System.out.println(tip); System.out.println(tipPercent); System.out.println(level); System.out.println(amount);
     }
