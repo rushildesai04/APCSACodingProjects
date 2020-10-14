@@ -34,5 +34,6 @@ public class Time {
     seconds = placeholder3 % 60;
     
     System.out.println(input + " seconds = "+ weeks +" weeks "+ days + " days " + hours + " hours " + minutes + " minutes and " + seconds + " seconds");
+    
   }
 }
