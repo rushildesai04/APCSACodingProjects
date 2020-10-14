@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Triangle {
   public static void main(String[] args){
 
@@ -80,6 +79,7 @@ public class Triangle {
         }
       }
     }
+    
     //Used During Testing
     //System.out.println(p1x); System.out.println(p1y); System.out.println(p2x); System.out.println(p2y); System.out.println(p3x); System.out.println(p3y);
     //System.out.println("\n" + a); System.out.println(b); System.out.println(c);
