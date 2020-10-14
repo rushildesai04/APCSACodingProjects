@@ -7,4 +7,4 @@ All the scripts in this repository are different and perform different functions
 
 Thank you for using the various scripts.
 
--  rush-bot
+--  rush-bot
