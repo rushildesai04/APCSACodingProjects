@@ -27,17 +27,5 @@ public class Change {
        System.out.println("Dimes: " + dimesLeft);
        System.out.println("Nickels: " + nickelsLeft);
        System.out.println("Pennies: " + penniesLeft);
-       
-
-
-
-
-
-        
-        
-
-        
-
-
    }  
 }
