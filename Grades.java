@@ -43,5 +43,4 @@ public class Grades {
      System.out.println("Quiz Average:" + quizav);
      System.out.println("Final Grade:" + fg);
   }
-  
 }
