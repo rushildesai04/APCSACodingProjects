@@ -5,6 +5,6 @@ All the scripts in this repository are different and perform different functions
 
 ***These scripts were written in Java.***
 
-Thank you for using the various scripts.
+Thank you for using the various scripts and programs.
 
 --  rush-bot
